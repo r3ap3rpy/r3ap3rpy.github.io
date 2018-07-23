@@ -21,6 +21,18 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
 ## List of my youtube videos:
+ 23. [Python - Coroutines](https://youtu.be/nawc582rYac)
+ 22. [Python - Context Managers](https://youtu.be/78iHBhrWyeM)
+ 21. [Python - Threading](https://youtu.be/jz3GmNIc6UU)
+ 20. [Python - Multiprocessing](https://youtu.be/aUSaCRFYRxc)
+ 19. [Python - PasswordMGMT](https://youtu.be/ITf3t_ET6Is)
+ 18. [Python - VirtualEnv](https://youtu.be/NmHPTxsR0T0)
+ 17. [Python - Flask - Authentication module](https://youtu.be/hXYGJZnu3Jo)
+ 16. [Python - Flask - Auth and Cache](https://youtu.be/KOqS_UL8TQU)
+ 15. [Python - Flask - Getting Started](https://youtu.be/xSzDKi4ugH4)
+ 14. [Python - Flask - CV](https://youtu.be/H4PVA-NkIJo)
+ 13. [Python - PublicIP](https://youtu.be/Th8q07DYACA)
+      - A video about getting the public IP of your current location!
  12. [Python -  SunriseSunset](https://youtu.be/0dDcZpRy39s)
       - A script to calculate the exact time of the sunrise and sunset based on location!
  11. [Python -  MagPiDownloader](https://youtu.be/ltaEBGsoIRc)
