@@ -21,5 +21,11 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
 ## List of my youtube videos:
+ 4. [Python - Fixed Length Queue](https://youtu.be/kiHR6397d_o)
+     - This video demonstrates you the power of the Fixed Length Queues in python!
+ 3. [Python - Numbers and Comments](https://youtu.be/0JWNmzsMK58)
+     - This video is about numbers and comments!
+ 2. [Python - Installing on Windows Server 2012R2](https://youtu.be/xyApAP5Qom4)
+     - This video helps you install python on Windows Server 2012R2
  1. [Python - Hello World](https://youtu.be/xgUWjB4u9QA) 
      - This video helps you get started with python!
