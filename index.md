@@ -1,8 +1,12 @@
-﻿## So this was added :)
+﻿## Welcome to my realm :)
 
-## Welcome to GitHub Pages
+This github pages is about tracking my projects, repositories, and some updates that reflect my portfolio!
 
-You can use the [editor on GitHub](https://github.com/r3ap3rpy/r3ap3rpy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There are some repositories here which you can browse!
+
+	- [This](/flask) repository is a little intro to flask!
+
+You can use the [editor on GitHub](/flask) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
