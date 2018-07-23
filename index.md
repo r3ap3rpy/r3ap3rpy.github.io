@@ -4,10 +4,15 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 There are some repositories here which you can browse!
 
- - [This](/flask) repository is a little intro to flask to!
+ - [This](/flask) repository is a little intro to flask!
  - [This](/LoggingDemo) repository shows you how you can add robust logging to your packages!
  	- Also got a youtube tutorial for [this](https://youtu.be/MR1UCha7oWw)!
- 	
+ - [This](/csharp) repository holds some C# scripts I wrote as practice!
+ - [This](/powershell) repository holds interessting PS scripts!
+ 	- Check out how you can [watch](https://youtu.be/Y2Wms6ywKAc) a folder for changes.
+ - [This](/GNSMapper) repository is a small project of mine that allows you to visualize neighbours of a server via connected TCP clients!
+ 	- Check out part [1](https://youtu.be/xAKFC4nhMxo) of 2
+ 	- Check out part [2](https://youtu.be/K6t9oVNLYSI) of 2
 You can use the [editor on GitHub](/flask) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
