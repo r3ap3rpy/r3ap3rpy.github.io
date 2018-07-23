@@ -21,5 +21,5 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
 ## List of my youtube videos:
- - [Python - Hello World](https://youtu.be/xgUWjB4u9QA) 
-    - This video helps you get started with python!
+ 1. [Python - Hello World](https://youtu.be/xgUWjB4u9QA) 
+     - This video helps you get started with python!
