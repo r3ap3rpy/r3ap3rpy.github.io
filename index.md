@@ -2,6 +2,11 @@
 
 This github pages is about tracking my projects, repositories, and some updates that reflect my portfolio!
 
+## I have a
+ - [YouTube Channel](https://www.youtube.com/channel/UC1qkMXH8d2I9DDAtBSeEHqg)
+ - [Twitter](https://twitter.com/r3ap3rpy)
+ - [Personal Site](http://r3ap3rpy.pythonanywhere.com/)
+
 ## There are some repositories here which you can browse!
 
  - [This](/flask) repository is a little intro to flask!
