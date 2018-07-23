@@ -13,6 +13,12 @@ There are some repositories here which you can browse!
  - [This](/GNSMapper) repository is a small project of mine that allows you to visualize neighbours of a server via connected TCP clients!
  	- Check out part [1](https://youtu.be/xAKFC4nhMxo) of 2
  	- Check out part [2](https://youtu.be/K6t9oVNLYSI) of 2
+ - [This](/flask-favicon) repository teaches you how to add favicon to your flask powered sites!
+ - [This](/webclipboard) reporsitory allows you to provide an encrypted web based clipboard with username and password authentication!
+ - [This](/python) repository is the main one which holds most of my scritps that I use on my channel!
+ - [This](/pythonanywhere-portfolio) repository is the source for my [portfolio](http://r3ap3rpy.pythonanywhere.com)! 
+
+
 You can use the [editor on GitHub](/flask) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
