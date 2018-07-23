@@ -5,7 +5,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 There are some repositories here which you can browse!
 
  - [This](/flask) repository is a little intro to flask to!
- - 
+ - [This](/LoggingDemo) repository shows you how you can add robust logging to your packages!
+ 	- Also got a youtube tutorial for [this](https://youtu.be/MR1UCha7oWw)!
+ 	
 You can use the [editor on GitHub](/flask) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
