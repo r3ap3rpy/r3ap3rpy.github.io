@@ -22,4 +22,4 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ## List of my youtube videos:
  - [Python - Hello World](https://youtu.be/xgUWjB4u9QA) 
-  - This video helps you get started with python!
+   - This video helps you get started with python!
