@@ -21,6 +21,22 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
 ## List of my youtube videos:
+ 12. [Python -  SunriseSunset](https://youtu.be/0dDcZpRy39s)
+      - A script to calculate the exact time of the sunrise and sunset based on location!
+ 11. [Python -  MagPiDownloader](https://youtu.be/ltaEBGsoIRc)
+      - A small script to download the latest MagPi magazine when it becomes available!
+ 10. [Python -  Fun with Lists](https://youtu.be/ukHYA0MTJH8)
+      - Some fun with the list datastructure in python!
+ 9. [Pyhon - Cisco - Serial Converter](https://youtu.be/UZtVQoalRsM)
+     - This video teaches you how you can convert a cisco serial number into manufacturing date!
+ 8. [Python - OOP - Producers and Consumers](https://youtu.be/nmkBk1Rb8ig)
+     - Demonstration of the Producers and Consumers OOP paradigm!
+ 7. [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
+     - Off topic video about sunset in my hometown, shot with a lumia 630 phone!
+ 6. [Python - Stack](https://youtu.be/KDqQYeb8nzg)
+     - This is a video about the implementation of Stack!
+ 5. [Python - OOP - Singleton](https://youtu.be/kmAStfwahJE)
+     - This is an example implementation of the singleton pattern!
  4. [Python - Fixed Length Queue](https://youtu.be/kiHR6397d_o)
      - This video demonstrates you the power of the Fixed Length Queues in python!
  3. [Python - Numbers and Comments](https://youtu.be/0JWNmzsMK58)
