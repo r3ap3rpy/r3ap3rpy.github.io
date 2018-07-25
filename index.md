@@ -26,6 +26,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
 ## List of my youtube videos:
+ - [Python - Web Clipboard with cache expiration](https://youtu.be/7vAHj5BbEDY)
  - [Python - Fernet encryption](https://youtu.be/3hp4vnSb2qU)
  - [Python - Ad hoc webserver](https://youtu.be/ZD0u_PEwhso)
  - [Python - Logging in modules and packages](https://youtu.be/MR1UCha7oWw)
