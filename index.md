@@ -81,3 +81,4 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Installing on Windows Server 2012R2](https://youtu.be/xyApAP5Qom4)
  - [Python - Hello World](https://youtu.be/xgUWjB4u9QA) 
  - [Python - YouTube  API](https://youtu.be/GHaZm4pXrCM)
+ - [Python - Flask Debug Toolbar Extension](https://youtu.be/ZE9tB7sSHZc)
