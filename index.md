@@ -8,7 +8,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Personal Site](http://r3ap3rpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
-
+ - [This](/flask-app-status) repository is a demo for the app status backend and simple frontend!
  - [This](/flask) repository is a little intro to flask!
  - [This](/LoggingDemo) repository shows you how you can add robust logging to your packages!
  	- Also got a youtube tutorial for [this](https://youtu.be/MR1UCha7oWw)!
