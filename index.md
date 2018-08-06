@@ -83,3 +83,4 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - YouTube  API](https://youtu.be/GHaZm4pXrCM)
  - [Python - Flask Debug Toolbar Extension](https://youtu.be/ZE9tB7sSHZc)
  - [Python - pyGithub getting started](https://youtu.be/oDniON4qO6w)
+ - [Python - Flask Gracefull shutdown](https://youtu.be/7pOXnc5kS54)
