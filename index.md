@@ -87,3 +87,4 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Flask Application status backend](https://youtu.be/Zj-HF_BfgiU)
  - [Python - Progressbar](https://youtu.be/zBFAwVzXnUg)
  - [Python - Service Manager](https://youtu.be/bAczc1bB4qY)
+ - [Python - Microsoft Teams API intro, and status reporting](https://youtu.be/Crkp6mRlO88)
