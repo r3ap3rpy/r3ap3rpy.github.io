@@ -88,3 +88,4 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Progressbar](https://youtu.be/zBFAwVzXnUg)
  - [Python - Service Manager](https://youtu.be/bAczc1bB4qY)
  - [Python - Microsoft Teams API intro, and status reporting](https://youtu.be/Crkp6mRlO88)
+ - [Python - Slack API to send status messages](https://youtu.be/O73udAndYDA)
