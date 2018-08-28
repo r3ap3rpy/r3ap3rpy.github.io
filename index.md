@@ -26,8 +26,17 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
-## List of my youtube videos:
- - [Python - Web Clipboard with cache expiration](https://youtu.be/7vAHj5BbEDY)
+***
+
+> List of my youtube videos per playlist:
+
+### Other
+ - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
+
+### Powershell
+ - [PowerShell - FSWatcher](https://youtu.be/Y2Wms6ywKAc)
+
+### Python
  - [Python - Fernet encryption](https://youtu.be/3hp4vnSb2qU)
  - [Python - Ad hoc webserver](https://youtu.be/ZD0u_PEwhso)
  - [Python - Logging in modules and packages](https://youtu.be/MR1UCha7oWw)
@@ -40,56 +49,66 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - One Line Constructors](https://youtu.be/iVwWIy79QMI)
  - [Python - Function Caching](https://youtu.be/Hsz4SKpwF9o)
  - [Python - Class Based Context Manager](https://youtu.be/1YFgOubT5xQ)
- - [Python - JIRA - Adding plus functionality](https://youtu.be/Nh01NDSRG1s)
  - [Python - Named Tuples and Enum](https://youtu.be/YdcWdNT3XHg)
- - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
- - [Python - Flask - Adding favicon to your site](https://youtu.be/f-hORvSz0o4)
  - [Python - Asyncio speed testing](https://youtu.be/aidMgmTauuA)
  - [Python - Asyncio a'la Fibonacci](https://youtu.be/Tiv5AlFJDJc)
  - [Python - VoC, from python script to JAVA bytecode](https://youtu.be/o2UXfjhCjC0)
  - [Python - GNS Topology part 2 of 2](https://youtu.be/K6t9oVNLYSI)
  - [Python - Type Writer Challenge](https://youtu.be/TJCIXSAJ8sQ)
  - [Python - GNS Topology part 1 of 2](https://youtu.be/xAKFC4nhMxo)
- - [Python - OOP - State Pattern](https://youtu.be/G8FTDsD9L_g)
- - [Python - OOP - Facade Pattern](https://youtu.be/jArhQNBYets)
- - [Python - OOP - Monostate Pattern](https://youtu.be/fa5wUvV9HwE)
- - [Python - OOP - Proxy Pattern](https://youtu.be/KU3svHBrfiU)
- - [Python - OOP - Command Pattern](https://youtu.be/t9RADjNnVdY)
- - [Python - OOP - Factory Pattern](https://youtu.be/MWGD5yJb_Zw)
- - [Python - OOP - Observer Pattern](https://youtu.be/in6aUBwDiFE)
- - [PowerShell - FSWatcher](https://youtu.be/Y2Wms6ywKAc)
  - [Python - Coroutines](https://youtu.be/nawc582rYac)
  - [Python - Context Managers](https://youtu.be/78iHBhrWyeM)
  - [Python - Threading](https://youtu.be/jz3GmNIc6UU)
  - [Python - Multiprocessing](https://youtu.be/aUSaCRFYRxc)
  - [Python - PasswordMGMT](https://youtu.be/ITf3t_ET6Is)
  - [Python - VirtualEnv](https://youtu.be/NmHPTxsR0T0)
- - [Python - Flask - Authentication module](https://youtu.be/hXYGJZnu3Jo)
- - [Python - Flask - Auth and Cache](https://youtu.be/KOqS_UL8TQU)
- - [Python - Flask - Getting Started](https://youtu.be/xSzDKi4ugH4)
- - [Python - Flask - CV](https://youtu.be/H4PVA-NkIJo)
  - [Python - PublicIP](https://youtu.be/Th8q07DYACA)
  - [Python - SunriseSunset](https://youtu.be/0dDcZpRy39s)
  - [Python - MagPiDownloader](https://youtu.be/ltaEBGsoIRc)
  - [Python - Fun with Lists](https://youtu.be/ukHYA0MTJH8)
  - [Pyhon - Cisco - Serial Converter](https://youtu.be/UZtVQoalRsM)
- - [Python - OOP - Producers and Consumers](https://youtu.be/nmkBk1Rb8ig)
- - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
  - [Python - Stack](https://youtu.be/KDqQYeb8nzg)
- - [Python - OOP - Singleton](https://youtu.be/kmAStfwahJE)
  - [Python - Fixed Length Queue](https://youtu.be/kiHR6397d_o)
  - [Python - Numbers and Comments](https://youtu.be/0JWNmzsMK58)
  - [Python - Installing on Windows Server 2012R2](https://youtu.be/xyApAP5Qom4)
  - [Python - Hello World](https://youtu.be/xgUWjB4u9QA) 
  - [Python - YouTube  API](https://youtu.be/GHaZm4pXrCM)
- - [Python - Flask Debug Toolbar Extension](https://youtu.be/ZE9tB7sSHZc)
  - [Python - pyGithub getting started](https://youtu.be/oDniON4qO6w)
- - [Python - Flask Gracefull shutdown](https://youtu.be/7pOXnc5kS54)
- - [Python - Flask Application status backend](https://youtu.be/Zj-HF_BfgiU)
  - [Python - Progressbar](https://youtu.be/zBFAwVzXnUg)
  - [Python - Service Manager](https://youtu.be/bAczc1bB4qY)
  - [Python - Microsoft Teams API intro, and status reporting](https://youtu.be/Crkp6mRlO88)
  - [Python - Slack API to send status messages](https://youtu.be/O73udAndYDA)
  - [Python - Thycotic API, pulling folders and secrets](https://youtu.be/NVyg6I5duO4)
  - [Python - Twitter, tweeting out](https://youtu.be/Mf-rXrnY48Q)
+
+### Python - Bottle Web Framework
+ - [NothingYet](http://nowhere.com)
+
+### Python - JIRA
+ - [Python - JIRA - Adding plus functionality](https://youtu.be/Nh01NDSRG1s)
+ - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
+
+### Python - Flask
+ - [Python - Flask - Authentication module](https://youtu.be/hXYGJZnu3Jo)
+ - [Python - Flask - Auth and Cache](https://youtu.be/KOqS_UL8TQU)
+ - [Python - Flask - Getting Started](https://youtu.be/xSzDKi4ugH4)
+ - [Python - Flask - CV](https://youtu.be/H4PVA-NkIJo)
+ - [Python - Flask - Adding favicon to your site](https://youtu.be/f-hORvSz0o4)
+ - [Python - Flask Debug Toolbar Extension](https://youtu.be/ZE9tB7sSHZc)
+ - [Python - Web Clipboard with cache expiration](https://youtu.be/7vAHj5BbEDY)
+ - [Python - Flask Gracefull shutdown](https://youtu.be/7pOXnc5kS54)
+ - [Python - Flask Application status backend](https://youtu.be/Zj-HF_BfgiU)
+
+### Python - Selenium Web Automation Framework
  - [Python - Google Translate your own way, a.k.a hacking](https://youtu.be/Rq1mVkZmmFA)
+
+### Python - OOP
+ - [Python - OOP - Command Pattern](https://youtu.be/t9RADjNnVdY)
+ - [Python - OOP - Factory Pattern](https://youtu.be/MWGD5yJb_Zw)
+ - [Python - OOP - Observer Pattern](https://youtu.be/in6aUBwDiFE)
+ - [Python - OOP - Producers and Consumers](https://youtu.be/nmkBk1Rb8ig)
+ - [Python - OOP - Singleton](https://youtu.be/kmAStfwahJE)
+ - [Python - OOP - Proxy Pattern](https://youtu.be/KU3svHBrfiU)
+ - [Python - OOP - State Pattern](https://youtu.be/G8FTDsD9L_g)
+ - [Python - OOP - Facade Pattern](https://youtu.be/jArhQNBYets)
+ - [Python - OOP - Monostate Pattern](https://youtu.be/fa5wUvV9HwE)
