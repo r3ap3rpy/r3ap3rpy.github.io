@@ -36,6 +36,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### Powershell
  - [PowerShell - FSWatcher](https://youtu.be/Y2Wms6ywKAc)
 
+### Python - Bottle Web Framework
+ - [Python - Bottle - Part 1](https://youtu.be/uwD4JtO7FO4)
+
 ### Python
  - [Python - Fernet encryption](https://youtu.be/3hp4vnSb2qU)
  - [Python - Ad hoc webserver](https://youtu.be/ZD0u_PEwhso)
