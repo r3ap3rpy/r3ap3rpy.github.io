@@ -37,6 +37,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### Powershell
  - [PowerShell - FSWatcher](https://youtu.be/Y2Wms6ywKAc)
+ - [Powershell - Text to speak](https://youtu.be/fqrnQ24ImHk)
 
 ### Python - Bottle Web Framework
  - [Python - Bottle - Part 1](https://youtu.be/uwD4JtO7FO4)
