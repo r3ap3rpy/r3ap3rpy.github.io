@@ -8,6 +8,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Personal Site](http://r3ap3rpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
+ - [This](/ParsingConfig) repository holds a demo for the configparser module!
  - [This](/bottle-web-framework) repository allows you to interact with the [bottle](https://bottlepy.org/docs/dev/) module to create powerfull webapps.
  - [This](/anywherepython) repository allows you to interact with the [PythonAnywhere](https://www.pythonanywhere.com) API
  - [This](/flask-app-status) repository is a demo for the app status backend and simple frontend!
@@ -39,6 +40,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### Python - Bottle Web Framework
  - [Python - Bottle - Part 1](https://youtu.be/uwD4JtO7FO4)
+ - [Python - Bottle - Part 2](https://youtu.be/eGYzgtydGnY)
+ - [Python - Bottle - Part 3](https://youtu.be/3IUA_u0o-Fw)
+ - [Python - Bottle - Part 4](https://youtu.be/ndhnAfjGKpc)
 
 ### Python
  - [Python - Fernet encryption](https://youtu.be/3hp4vnSb2qU)
