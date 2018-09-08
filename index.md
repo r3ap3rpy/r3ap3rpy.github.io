@@ -50,6 +50,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 7](https://youtu.be/7wSXzBlPtQc)
  - [Python - Bottle - Part 8](https://youtu.be/HiOODZEsv-w)
  - [Python - Bottle - Part 9](https://youtu.be/DZGeG3Nex64)
+ - [Python - Bottle - Part 10](https://youtu.be/poGtND8bnjE)
 
 ### Python
  - [Python - Fernet encryption](https://youtu.be/3hp4vnSb2qU)
