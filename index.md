@@ -8,6 +8,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Personal Site](http://r3ap3rpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
+ - [This](/jinja-project) repository holds some scripts related to my youtube videos, adventuring the powerfull Jinja2 template engine.
  - [This](/ParsingConfig) repository holds a demo for the configparser module!
  - [This](/bottle-web-framework) repository allows you to interact with the [bottle](https://bottlepy.org/docs/dev/) module to create powerfull webapps.
  - [This](/anywherepython) repository allows you to interact with the [PythonAnywhere](https://www.pythonanywhere.com) API
