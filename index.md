@@ -99,6 +99,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Slack API to send status messages](https://youtu.be/O73udAndYDA)
  - [Python - Thycotic API, pulling folders and secrets](https://youtu.be/NVyg6I5duO4)
  - [Python - Twitter, tweeting out](https://youtu.be/Mf-rXrnY48Q)
+ - [Python - ConfigParser](https://youtu.be/MBaiSJvCcmQ)
 
 ### Python - Bottle Web Framework
  - [NothingYet](http://nowhere.com)
