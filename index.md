@@ -119,6 +119,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Web Clipboard with cache expiration](https://youtu.be/7vAHj5BbEDY)
  - [Python - Flask Gracefull shutdown](https://youtu.be/7pOXnc5kS54)
  - [Python - Flask Application status backend](https://youtu.be/Zj-HF_BfgiU)
+ - [Python - Jinja2 introduction](https://youtu.be/ffXvGZg0L9U)
 
 ### Python - Selenium Web Automation Framework
  - [Python - Google Translate your own way, a.k.a hacking](https://youtu.be/Rq1mVkZmmFA)
