@@ -76,7 +76,6 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Asyncio a'la Fibonacci](https://youtu.be/Tiv5AlFJDJc)
  - [Python - VoC, from python script to JAVA bytecode](https://youtu.be/o2UXfjhCjC0)
  - [Python - GNS Topology part 2 of 2](https://youtu.be/K6t9oVNLYSI)
- - [Python - Type Writer Challenge](https://youtu.be/TJCIXSAJ8sQ)
  - [Python - GNS Topology part 1 of 2](https://youtu.be/xAKFC4nhMxo)
  - [Python - Coroutines](https://youtu.be/nawc582rYac)
  - [Python - Context Managers](https://youtu.be/78iHBhrWyeM)
@@ -124,7 +123,9 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Jinja2 introduction](https://youtu.be/ffXvGZg0L9U)
 
 ### Python - Selenium Web Automation Framework
+ - [Python - Type Writer Challenge](https://youtu.be/TJCIXSAJ8sQ)
  - [Python - Google Translate your own way, a.k.a hacking](https://youtu.be/Rq1mVkZmmFA)
+ - [Python - Selenium Introduction](https://youtu.be/YGYsdcGsvP0)
 
 ### Python - OOP
  - [Python - OOP - Command Pattern](https://youtu.be/t9RADjNnVdY)
