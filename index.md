@@ -8,6 +8,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Personal Site](http://r3ap3rpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
+ - [This](/py-selenium) repository holds fun projects I worked on as I wrote my selenium scripts.
  - [This](/shortenpy) repository holds a pure python implementation of an url shortening service, with some eyecandy.
  - [This](/jinja-project) repository holds some scripts related to my youtube videos, adventuring the powerfull Jinja2 template engine.
  - [This](/ParsingConfig) repository holds a demo for the configparser module!
