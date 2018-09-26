@@ -126,6 +126,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Type Writer Challenge](https://youtu.be/TJCIXSAJ8sQ)
  - [Python - Google Translate your own way, a.k.a hacking](https://youtu.be/Rq1mVkZmmFA)
  - [Python - Selenium Introduction](https://youtu.be/YGYsdcGsvP0)
+ - [Python - Selenium - Login forms](https://youtu.be/0_28GIuuYzw)
 
 ### Python - OOP
  - [Python - OOP - Command Pattern](https://youtu.be/t9RADjNnVdY)
