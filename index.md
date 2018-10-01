@@ -138,3 +138,4 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - OOP - State Pattern](https://youtu.be/G8FTDsD9L_g)
  - [Python - OOP - Facade Pattern](https://youtu.be/jArhQNBYets)
  - [Python - OOP - Monostate Pattern](https://youtu.be/fa5wUvV9HwE)
+ - [Python - OOP - Diamond Shape Problem](https://youtu.be/NRKTGRFMyPk)
