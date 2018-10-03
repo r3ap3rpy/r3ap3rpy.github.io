@@ -58,6 +58,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - MAC Resolver](https://youtu.be/z7D0rVpLISI)
  - [Python - Anywhere python, a module for interacting with PythonAnywhere API](https://youtu.be/WV696EbHEPY)
  - [Python - Fernet encryption](https://youtu.be/3hp4vnSb2qU)
  - [Python - Ad hoc webserver](https://youtu.be/ZD0u_PEwhso)
