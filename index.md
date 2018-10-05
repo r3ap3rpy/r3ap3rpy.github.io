@@ -130,6 +130,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Selenium - Login forms](https://youtu.be/0_28GIuuYzw)
 
 ### Python - OOP
+ - [Python - OOP - Abstract Class](https://youtu.be/JHntOqZuSvk)
  - [Python - OOP - Command Pattern](https://youtu.be/t9RADjNnVdY)
  - [Python - OOP - Factory Pattern](https://youtu.be/MWGD5yJb_Zw)
  - [Python - OOP - Observer Pattern](https://youtu.be/in6aUBwDiFE)
