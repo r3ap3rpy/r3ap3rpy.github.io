@@ -58,6 +58,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - MAC Resolver](https://youtu.be/z7D0rVpLISI)
  - [Python - Anywhere python, a module for interacting with PythonAnywhere API](https://youtu.be/WV696EbHEPY)
  - [Python - Fernet encryption](https://youtu.be/3hp4vnSb2qU)
  - [Python - Ad hoc webserver](https://youtu.be/ZD0u_PEwhso)
@@ -111,6 +112,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
 
 ### Python - Flask
+ - [Python - ShortenPy Url shortening service](https://youtu.be/RtMgvo9xofE)
  - [Python - Flask - Authentication module](https://youtu.be/hXYGJZnu3Jo)
  - [Python - Flask - Auth and Cache](https://youtu.be/KOqS_UL8TQU)
  - [Python - Flask - Getting Started](https://youtu.be/xSzDKi4ugH4)
@@ -127,8 +129,11 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Google Translate your own way, a.k.a hacking](https://youtu.be/Rq1mVkZmmFA)
  - [Python - Selenium Introduction](https://youtu.be/YGYsdcGsvP0)
  - [Python - Selenium - Login forms](https://youtu.be/0_28GIuuYzw)
+ - [Python - Selenium - Dockerized Grid](https://www.youtube.com/watch?v=nIsbXJ81SK0)
 
 ### Python - OOP
+ - [Python - OOP - Abstract Class](https://youtu.be/JHntOqZuSvk)
+ - [Python - OOP - Diamond Shape Problem](https://youtu.be/NRKTGRFMyPk)
  - [Python - OOP - Command Pattern](https://youtu.be/t9RADjNnVdY)
  - [Python - OOP - Factory Pattern](https://youtu.be/MWGD5yJb_Zw)
  - [Python - OOP - Observer Pattern](https://youtu.be/in6aUBwDiFE)
