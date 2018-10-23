@@ -9,7 +9,8 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [URL shortener](http://shortenpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
- - [This](/cherrypy-web-framework) repository holds the course files that support my corresponding course on [udemy](https://www.udemy.com/cherrypy-a-minimalist-web-framework-for-python)
+ - [This](/sanic-web-framework) repository holds the curse files that support my corresponding cours for Sanic on [udemy](https://www.udemy.com/Sanic-an-asynchronous-web-framework-for-Pythonistas)
+ - [This](/cherrypy-web-framework) repository holds the course files that support my corresponding course for CherryPy on [udemy](https://www.udemy.com/cherrypy-a-minimalist-web-framework-for-python)
  - [This](/py-selenium) repository holds fun projects I worked on as I wrote my selenium scripts.
  - [This](/shortenpy) repository holds a pure python implementation of an url shortening service, with some eyecandy.
  - [This](/jinja-project) repository holds some scripts related to my youtube videos, adventuring the powerfull Jinja2 template engine.
