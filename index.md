@@ -9,6 +9,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [URL shortener](http://shortenpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
+ - [This](/async-websockets) repository holds a tutorial for the asyncio and websockets modules of python 3.7.0 x86
  - [This](/random-norris) repository holds a script and an html which demonstrates the power of websockets and python with some Chuck Norris humour.
  - [This](/sanic-web-framework) repository holds the curse files that support my corresponding cours for Sanic on [udemy](https://www.udemy.com/Sanic-an-asynchronous-web-framework-for-Pythonistas)
  - [This](/cherrypy-web-framework) repository holds the course files that support my corresponding course for CherryPy on [udemy](https://www.udemy.com/cherrypy-a-minimalist-web-framework-for-python)
