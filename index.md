@@ -47,6 +47,9 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [PowerShell - FSWatcher](https://youtu.be/Y2Wms6ywKAc)
  - [Powershell - Text to speak](https://youtu.be/fqrnQ24ImHk)
 
+### Python - Websockets
+ - [Python - Websockets - Using cmd and powershell via a sanic webapp in python](https://youtu.be/X4oVGnJLVUg)
+
 ### Python - Bottle Web Framework
  - [Python - Bottle - Part 1](https://youtu.be/uwD4JtO7FO4)
  - [Python - Bottle - Part 2](https://youtu.be/eGYzgtydGnY)
