@@ -48,6 +48,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Powershell - Text to speak](https://youtu.be/fqrnQ24ImHk)
 
 ### Python - Websockets
+ - [Python - Asyncio and Websockets a match made in heaven simple client and server](https://youtu.be/7i0-lYjtvIE)
  - [Python - Websockets - Using cmd and powershell via a sanic webapp in python](https://youtu.be/X4oVGnJLVUg)
 
 ### Python - Bottle Web Framework
