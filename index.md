@@ -9,6 +9,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [URL shortener](http://shortenpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
+ - [This](/pyxel-project) repository holds the course materials for my course on [udemy](https://www.udemy.com/pyxel-a-retro-game-engine-for-python)
  - [This](/turbogears2-framework) repository holds the tutorial files for my turbogears course on [udemy](https://www.udemy.com/turbogears-2-a-web-framework-to-rule-them-all)
  - [This](/async-websockets) repository holds a tutorial for the asyncio and websockets modules of python 3.7.0 x86
  - [This](/random-norris) repository holds a script and an html which demonstrates the power of websockets and python with some Chuck Norris humour.
