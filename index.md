@@ -50,6 +50,8 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Powershell - Text to speak](https://youtu.be/fqrnQ24ImHk)
 
 ### Python - Websockets
+ - [Python - Chuck Norris and Asyncio infused WebSockets](https://youtu.be/PkHyqZ3aBAI)
+ - [Python - Asyncio and Websockets a match made in heaven - random browser stuff](https://youtu.be/ItSzwKBQ04Q)
  - [Python - Asyncio and Websockets a match made in heaven - wss to ws, is what https is to http](https://youtu.be/F3pB0PHcUxE)
  - [Python - Asyncio and Websockets a match made in heaven simple client and server](https://youtu.be/7i0-lYjtvIE)
  - [Python - Websockets - Using cmd and powershell via a sanic webapp in python](https://youtu.be/X4oVGnJLVUg)
