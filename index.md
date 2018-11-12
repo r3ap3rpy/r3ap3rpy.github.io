@@ -45,6 +45,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### Other
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
+### Pyxel
+ - [Python - Pyxel - Starry Sky](https://youtu.be/WewNYTXS_Rc)
+
 ### Powershell
  - [PowerShell - FSWatcher](https://youtu.be/Y2Wms6ywKAc)
  - [Powershell - Text to speak](https://youtu.be/fqrnQ24ImHk)
