@@ -46,6 +46,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
 ### Pyxel
+ - [Python - Pyxel - Making of a spaceship game!](https://youtu.be/m7msykl-P9I)
  - [Python - Pyxel - Starry Sky](https://youtu.be/WewNYTXS_Rc)
 
 ### Powershell
