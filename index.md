@@ -54,6 +54,9 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [PowerShell - FSWatcher](https://youtu.be/Y2Wms6ywKAc)
  - [Powershell - Text to speak](https://youtu.be/fqrnQ24ImHk)
 
+### Asciinema
+ - [Python - Asciinema](https://youtu.be/LqpC4u7RhwY)
+
 ### Python - Websockets
  - [Python - Chuck Norris and Asyncio infused WebSockets](https://youtu.be/PkHyqZ3aBAI)
  - [Python - Asyncio and Websockets a match made in heaven - random browser stuff](https://youtu.be/ItSzwKBQ04Q)
