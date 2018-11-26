@@ -46,6 +46,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### Other
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
+### Python - Challenges
+ - [Python - Challenges - is isogram](https://youtu.be/NUTq1bz1J68)
+
 ### Pyxel
  - [Python - Pyxel - Making of a spaceship game!](https://youtu.be/m7msykl-P9I)
  - [Python - Pyxel - Starry Sky](https://youtu.be/WewNYTXS_Rc)
