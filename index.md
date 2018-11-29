@@ -60,6 +60,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### Asciinema
  - [Python - Asciinema](https://youtu.be/LqpC4u7RhwY)
+ - [Python - Asciinema gallery](https://youtu.be/2wV_GtekGEE)
 
 ### Python - Websockets
  - [Python - Chuck Norris and Asyncio infused WebSockets](https://youtu.be/PkHyqZ3aBAI)
