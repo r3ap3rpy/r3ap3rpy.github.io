@@ -85,6 +85,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Rollbar intro](https://youtu.be/hqOPpvf7eSw)
  - [Python - A pluggable shell](https://youtu.be/XNUjGVXJqwU)
  - [Python - Halite III, my first bot ever](https://youtu.be/2WBEL0uSNgw)
  - [Python - SpookyOTP](https://youtu.be/rP6UKvxzGV4)
