@@ -49,6 +49,9 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [National Consultation](https://youtu.be/MHPrlQQc1Pc)
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
+### Python - Scrapy
+ - [Python - Scrapy intro](https://youtu.be/tGqoHtiJrP8)
+
 ### Python - Challenges
  - [Python - Challenges - is isogram](https://youtu.be/NUTq1bz1J68)
 
