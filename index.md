@@ -51,6 +51,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### Python - Scrapy
  - [Python - Scrapy intro](https://youtu.be/tGqoHtiJrP8)
+ - [Python - Scrapy - discount hunter](https://youtu.be/lNvX6gJEXYQ)
 
 ### Python - Challenges
  - [Python - Challenges - is isogram](https://youtu.be/NUTq1bz1J68)
