@@ -9,6 +9,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [URL shortener](http://shortenpy.pythonanywhere.com/)
 
 ## There are some repositories here which you can browse!
+ - [This](/udemy) repository holds my udemy wrapper which is available of [pypi](https://pypi.org/project/udemy/)
  - [This](/click-demo) repo holds scripts/packages for the click module of python.
  - [This](/py-challenges) repo holds challenges with which you can stretch your python knowledge.
  - [This](/asciinema-gallery) holds demo for a project about a flask based asciinema gallery written in python.
