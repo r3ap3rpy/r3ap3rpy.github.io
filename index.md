@@ -92,6 +92,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - dotenv demo](https://youtu.be/OsLQLYJMd-o)
  - [Python - Click module](https://youtu.be/Y3D-iZhr4Ig)
  - [Python - Running your gists from github](https://youtu.be/dnzxwuyDa7w)
  - [Python - Virtualenv](https://youtu.be/WXDrvvd0u44)
