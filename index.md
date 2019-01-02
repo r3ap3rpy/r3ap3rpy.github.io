@@ -92,6 +92,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Creating a module for Udemy API](https://youtu.be/bDReiUgPv_4)
  - [Python - dotenv demo](https://youtu.be/OsLQLYJMd-o)
  - [Python - Click module](https://youtu.be/Y3D-iZhr4Ig)
  - [Python - Running your gists from github](https://youtu.be/dnzxwuyDa7w)
