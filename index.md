@@ -8,6 +8,10 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Personal Site](http://r3ap3rpy.pythonanywhere.com/)
  - [URL shortener](http://shortenpy.pythonanywhere.com/)
 
+## My packages on [PyPi](https://pypi.org/)
+ - [Udemy](https://pypi.org/project/udemy/) a module to interact with the Udemy [API](https://www.udemy.com/developers/affiliate/)!
+ - [anywherepython](https://pypi.org/project/anywherepython/) a module to interact with the PythonAnywhere [API](https://help.pythonanywhere.com/pages/API/)!
+
 ## There are some repositories here which you can browse!
  - [This](/udemy) repository holds my udemy wrapper which is available of [pypi](https://pypi.org/project/udemy/)
  - [This](/click-demo) repo holds scripts/packages for the click module of python.
