@@ -96,6 +96,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - PrettyTable module](https://youtu.be/Ds00vFMzeOg)
  - [Python - Flashtext module](https://youtu.be/RCPwms-nPx0)
  - [Python - Argument parsing](https://youtu.be/ZzhlBaV7888)
  - [Python - Creating a module for Udemy API](https://youtu.be/bDReiUgPv_4)
@@ -137,7 +138,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - SunriseSunset](https://youtu.be/0dDcZpRy39s)
  - [Python - MagPiDownloader](https://youtu.be/ltaEBGsoIRc)
  - [Python - Fun with Lists](https://youtu.be/ukHYA0MTJH8)
- - [Pyhon - Cisco - Serial Converter](https://youtu.be/UZtVQoalRsM)
+ - [Python - Cisco - Serial Converter](https://youtu.be/UZtVQoalRsM)
  - [Python - Stack](https://youtu.be/KDqQYeb8nzg)
  - [Python - Fixed Length Queue](https://youtu.be/kiHR6397d_o)
  - [Python - Numbers and Comments](https://youtu.be/0JWNmzsMK58)
