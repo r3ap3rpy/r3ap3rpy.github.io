@@ -96,6 +96,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - zipping what needs to be zipped](https://youtu.be/TEm8MhFWPR0)
  - [Python - PrettyTable module](https://youtu.be/Ds00vFMzeOg)
  - [Python - Flashtext module](https://youtu.be/RCPwms-nPx0)
  - [Python - Argument parsing](https://youtu.be/ZzhlBaV7888)
