@@ -55,6 +55,11 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [National Consultation](https://youtu.be/MHPrlQQc1Pc)
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
+## Python - Redis
+ - [Python - Redis - Pipelines and atomic operations](https://youtu.be/vvt5NRQjTe8)
+ - [Python - Redis - Basic datastructures and a guide to use them](https://youtu.be/dlI-xpQxcuE)
+ - [Python - Redis - Setup and hello](https://youtu.be/1rs4A_8HhCs)
+
 ### Python - Scrapy
  - [Python - Scrapy intro](https://youtu.be/tGqoHtiJrP8)
  - [Python - Scrapy - discount hunter](https://youtu.be/lNvX6gJEXYQ)
@@ -97,8 +102,6 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
- - [Python - Redis - Basic datastructures and a guide to use them](https://youtu.be/dlI-xpQxcuE)
- - [Python - Redis - Setup and hello](https://youtu.be/1rs4A_8HhCs)
  - [100 sub special](https://youtu.be/SG0TSqell_k)
  - [Python - zipping what needs to be zipped](https://youtu.be/TEm8MhFWPR0)
  - [Python - PrettyTable module](https://youtu.be/Ds00vFMzeOg)
