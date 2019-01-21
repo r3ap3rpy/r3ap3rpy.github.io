@@ -56,6 +56,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
 ## Python - Redis
+ - [Python - Redis - Transactions happening](https://youtu.be/C8GgfhJf1KI)
  - [Python - Redis - Pipelines and atomic operations](https://youtu.be/vvt5NRQjTe8)
  - [Python - Redis - Basic datastructures and a guide to use them](https://youtu.be/dlI-xpQxcuE)
  - [Python - Redis - Setup and hello](https://youtu.be/1rs4A_8HhCs)
