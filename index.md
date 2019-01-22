@@ -55,7 +55,8 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [National Consultation](https://youtu.be/MHPrlQQc1Pc)
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
-## Python - Redis
+## Python - Redis 
+ - [Python - Redis - Securing connection with openssl](https://youtu.be/Cn-zLVg16Mg)
  - [Python - Redis - Transactions happening](https://youtu.be/C8GgfhJf1KI)
  - [Python - Redis - Pipelines and atomic operations](https://youtu.be/vvt5NRQjTe8)
  - [Python - Redis - Basic datastructures and a guide to use them](https://youtu.be/dlI-xpQxcuE)
