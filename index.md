@@ -56,6 +56,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
 
 ## Python - Redis 
+ - [Python - Redis - PUBSUB feature and server management](https://youtu.be/mTHGyzzHQ5I)
  - [Python - Redis - Securing connection with openssl](https://youtu.be/Cn-zLVg16Mg)
  - [Python - Redis - Transactions happening](https://youtu.be/C8GgfhJf1KI)
  - [Python - Redis - Pipelines and atomic operations](https://youtu.be/vvt5NRQjTe8)
@@ -163,9 +164,6 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Thycotic API, pulling folders and secrets](https://youtu.be/NVyg6I5duO4)
  - [Python - Twitter, tweeting out](https://youtu.be/Mf-rXrnY48Q)
  - [Python - ConfigParser](https://youtu.be/MBaiSJvCcmQ)
-
-### Python - Bottle Web Framework
- - [NothingYet](http://nowhere.com)
 
 ### Python - JIRA
  - [Python - JIRA - Adding plus functionality](https://youtu.be/Nh01NDSRG1s)
