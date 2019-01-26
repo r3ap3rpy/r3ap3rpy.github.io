@@ -106,6 +106,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Warning module and some tips](https://youtu.be/RH44nX3JNcM)
  - [Python - sqlite3 adding functions](https://youtu.be/09ELCVkPFo8)
  - [100 sub special](https://youtu.be/SG0TSqell_k)
  - [Python - zipping what needs to be zipped](https://youtu.be/TEm8MhFWPR0)
