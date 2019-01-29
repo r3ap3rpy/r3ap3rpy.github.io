@@ -52,6 +52,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Jenkins
+ - [Jenkins - Getting started on Windows 10 with apache tomcat](https://youtu.be/wz7-G-Uydpo)
+
 ### Other
  - [Bastillion - SSH gateway with fine grade permissions](https://youtu.be/LMEK34Yqr1M)
  - [National Consultation](https://youtu.be/MHPrlQQc1Pc)
