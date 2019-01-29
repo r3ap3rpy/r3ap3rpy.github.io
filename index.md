@@ -13,6 +13,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [anywherepython](https://pypi.org/project/anywherepython/) a module to interact with the PythonAnywhere [API](https://help.pythonanywhere.com/pages/API/)!
 
 ## There are some repositories here which you can browse!
+ - [This](/fire) repository holds scripts for my fire course.
  - [This](/ansibler) repository holds some runbooks and extra info to get started with ansible.
  - [This](/udemy) repository holds my udemy wrapper which is available of [pypi](https://pypi.org/project/udemy/)
  - [This](/click-demo) repo holds scripts/packages for the click module of python.
