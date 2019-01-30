@@ -53,6 +53,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ### Jenkins
+ - [Jenkins - Migrate jenkins home](https://youtu.be/cpHlwHsAcqo) 
  - [Jenkins - Getting started on Windows 10 with apache tomcat](https://youtu.be/wz7-G-Uydpo)
 
 ### Other
