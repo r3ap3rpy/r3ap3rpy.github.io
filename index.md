@@ -52,6 +52,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Ansible
+ - [Ansible - Getting started](https://youtu.be/acmrzdvYvOo)
+
 ### Jenkins
  - [Jenkins - Using jenkins cli and the setup](https://youtu.be/TEb1Y8wEi30)
  - [Jenkins - Migrate jenkins home](https://youtu.be/qpz8LKUO3zY) 
