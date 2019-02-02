@@ -53,6 +53,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ### Ansible
+ - [Ansible - Facts and filtering](https://youtu.be/ysX2i-5YanQ)
  - [Ansible - Getting started](https://youtu.be/acmrzdvYvOo)
 
 ### Jenkins
