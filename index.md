@@ -53,6 +53,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ### Ansible
+ - [Ansible - Install and Uninstall packages and the usage of notifications and handlers](https://youtu.be/ALgnOssFaI8)
  - [Ansible - Simple inventory with python, and some extra sites](https://youtu.be/Jcs1ME97bL8)
  - [Ansible - Variable substitution in playbooks and the debug module](https://youtu.be/kdZwz0NhnkY)
  - [Ansible - Facts and filtering](https://youtu.be/ysX2i-5YanQ)
