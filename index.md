@@ -57,6 +57,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### GNS
+ - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
+
 ### Ansible
  - [Ansible - Install and Uninstall packages and the usage of notifications and handlers](https://youtu.be/ALgnOssFaI8)
  - [Ansible - Simple inventory with python, and some extra sites](https://youtu.be/Jcs1ME97bL8)
