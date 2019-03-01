@@ -57,6 +57,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### MongoDB
+ - [Python - Getting started with pymongo and MongoDB on Ubuntu](https://youtu.be/hLzFfqrqrjo)
+
 ### GNS
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
