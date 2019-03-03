@@ -15,6 +15,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 ## Check out my [vagrant](https://app.vagrantup.com/r3ap3rpy) repository!
 
 ## There are some repositories here which you can browse!
+ - [This](/sphinxer) repository holds some example projects about documentation in sphinx.
  - [This](/vagrantseries) repository is a collection of course material for my Vagrant course on udemy.
  - [This](/mdwebapp) repository is a webapp written with Flask in python to render markdown based webpages.
  - [This](/pymonger) repository is for storing example files and information regarding my Mongo Videos and Python.
