@@ -54,9 +54,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
-***
-
 > List of my youtube videos per playlist:
+
+### Vagrant
+ - [Vagrant - Latest CentOS 7 with Python 3 7 0 built from source and ssh key based access](https://youtu.be/hbAy6hlsXr0)
 
 ### MongoDB
  - [Python - Getting started with pymongo and MongoDB on Ubuntu](https://youtu.be/hLzFfqrqrjo)
