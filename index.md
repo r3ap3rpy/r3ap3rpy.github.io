@@ -57,6 +57,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ### Vagrant
+ - [Vagrant - Fixing authentication failure in case of a mispackaged box](https://youtu.be/mES-TNwIQeE)
  - [Vagrant - Latest CentOS 7 with Python 3 7 0 built from source and ssh key based access](https://youtu.be/hbAy6hlsXr0)
 
 ### MongoDB
