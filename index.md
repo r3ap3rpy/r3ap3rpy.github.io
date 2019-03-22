@@ -57,6 +57,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ### Sphinx
+ - [Python - Sphinx - Installing themes and rendering Jupyter notebooks](https://youtu.be/hesiyLyDTtY)
  - [Python - Sphinx - Getting started and switching from rst to markdown](https://youtu.be/VXQUzdEda3c)
 
 ### Vagrant
