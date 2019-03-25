@@ -57,8 +57,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ### Sphinx
- - [Python - Sphinx - Installing themes and rendering Jupyter notebooks](https://youtu.be/hesiyLyDTtY)
- - [Python - Sphinx - Getting started and switching from rst to markdown](https://youtu.be/VXQUzdEda3c)
+ - [Sphinx - Document your python module, gotchas included](https://youtu.be/h4xTw_fkOa0)
+ - [Sphinx - Installing themes and rendering Jupyter notebooks](https://youtu.be/hesiyLyDTtY)
+ - [Sphinx - Getting started and switching from rst to markdown](https://youtu.be/VXQUzdEda3c)
 
 ### Vagrant
  - [Vagrant - Bring up a 3 noded Ansible test environment](https://youtu.be/2cL4kTP8_gI)
