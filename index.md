@@ -73,6 +73,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - Include and Import Playbook statements](https://youtu.be/SBmf6HCqhDQ)
  - [Ansible - Variables and templates with apache](https://youtu.be/YPhRh8I3f44)
  - [Ansible - Conditionals explained](https://youtu.be/5u-pHPnw378)
  - [Ansible - Install and Uninstall packages and the usage of notifications and handlers](https://youtu.be/ALgnOssFaI8)
