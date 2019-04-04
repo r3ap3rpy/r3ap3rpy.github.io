@@ -62,6 +62,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Sphinx - Getting started and switching from rst to markdown](https://youtu.be/VXQUzdEda3c)
 
 ### Vagrant
+ - [Ansible - AWX a.k.a free Ansible Tower](https://youtu.be/Ykzm-Yw8OCA)
  - [Vagrant - Bring up a 3 noded Ansible test environment](https://youtu.be/2cL4kTP8_gI)
  - [Vagrant - Fixing authentication failure in case of a mispackaged box](https://youtu.be/mES-TNwIQeE)
  - [Vagrant - Latest CentOS 7 with Python 3 7 0 built from source and ssh key based access](https://youtu.be/hbAy6hlsXr0)
