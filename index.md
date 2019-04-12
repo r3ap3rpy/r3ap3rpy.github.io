@@ -74,6 +74,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - Picking up speed with Mitogen](https://youtu.be/e6y8nShKMl0)
  - [Ansible - Introduction to delegate to with serial and handlers and some docker spicing](https://youtu.be/CiabaxMrK7c)
  - [Ansible - End to End automation with docker, python webapp and testing](https://youtu.be/RexYd_hl0Ho)
  - [Ansible - Installing pip and creating virtualenv for our app to live in](https://youtu.be/mbhIbkaLWJo)
