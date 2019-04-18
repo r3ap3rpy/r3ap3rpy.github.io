@@ -74,6 +74,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible -  Setting up ansible for network automation against IOS devices](https://youtu.be/1wg1RG429z0)
  - [Ansible - Setting up kerberos authentication](https://youtu.be/REApR9whXlI)
  - [Ansible - Winrm basic authentication setup](https://youtu.be/tBqOSIwyTnI)
  - [Ansible - How to join a Windows AD Domain, with playbook](https://youtu.be/blC5OGUzStk)
