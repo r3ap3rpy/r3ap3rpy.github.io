@@ -74,6 +74,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - Cron module to schedule a python script that uses environment variables](https://youtu.be/B_DBA0AZ5vs)
  - [Ansible - Asserting and a fun way to create testing playbooks for your environment](https://youtu.be/12Dc9XM_KdA)
  - [Ansible - Using strategies and output formatting option with yaml callback](https://youtu.be/f7VsjxTf53os)
  - [Ansible - Setting up ansible for network automation against IOS devices](https://youtu.be/1wg1RG429z0)
