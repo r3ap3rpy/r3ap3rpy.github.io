@@ -74,6 +74,8 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - no_log and vault](https://youtu.be/ja8Eth2CpYs)
+ - [Ansible - Mass deploy python modules in an elegant way](https://youtu.be/_BRe5LooP3o)
  - [Ansible - Static and Dynamic inventories and how to generate them with a pyhton script](https://youtu.be/tODneE60RbU)
  - [Ansible - Cron module to schedule a python script that uses environment variables](https://youtu.be/B_DBA0AZ5vs)
  - [Ansible - Asserting and a fun way to create testing playbooks for your environment](https://youtu.be/12Dc9XM_KdA)
