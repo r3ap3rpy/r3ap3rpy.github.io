@@ -74,6 +74,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - Deploy Chrome on Windows](https://youtu.be/hUcefvAGprQ)
  - [Ansible - custom facts and tagging](https://youtu.be/xNbpGiSPvGM)
  - [Ansible - no_log and vault](https://youtu.be/ja8Eth2CpYs)
  - [Ansible - Mass deploy python modules in an elegant way](https://youtu.be/_BRe5LooP3o)
