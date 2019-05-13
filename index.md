@@ -74,6 +74,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - win_chocolatey and windows packages](https://youtu.be/4lJpbrgGOjM)
  - [Ansible - Install roles and features on windows servers](https://youtu.be/M-Dt45yuALI)
  - [Ansible - Deploy Chrome on Windows](https://youtu.be/hUcefvAGprQ)
  - [Ansible - custom facts and tagging](https://youtu.be/xNbpGiSPvGM)
@@ -235,6 +236,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
 
 ### Python - Flask
+ - [Flask - Webapp running in Azure and secured by certbot and a valid SSL certificate](https://youtu.be/OapoT1MLgwI)
  - [Python - Flask based webapp to render markdown files](https://youtu.be/-g3ubRHpOEs)
  - [Python - Securing webapps in python with stunnel package](https://youtu.be/ozsn-1QGotY)
  - [Python - Flask - signing strings or cookies](https://youtu.be/FVQFfdRtx_c)
