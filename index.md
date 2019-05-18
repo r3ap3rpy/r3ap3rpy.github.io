@@ -1,5 +1,7 @@
 ﻿## Welcome to my realm :)
 
+### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
+
 This github pages is about tracking my projects, repositories, and some updates that reflect my portfolio!
 
 ## I have a
@@ -52,8 +54,6 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [This](/python) repository is the main one which holds most of my scritps that I use on my channel!
  - [This](/pythonanywhere-portfolio) repository is the source for my [portfolio](http://r3ap3rpy.pythonanywhere.com)! 
  - [This](/flask-debug-toolbar) repository is the source for my youtube video about adding the flask debug toolbar to your app!
-
-### I'm an aspiring youtuber, and I love to create tutorials because they reinforce my learning and allow me to give back to the community that I love so much!
 
 > List of my youtube videos per playlist:
 
