@@ -76,6 +76,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - Configure HSRP on cisco devices](https://youtu.be/l25ydGkXDEA)
  - [Ansible - banner and motd on cisco ios devices](https://youtu.be/4Fc-7vrwoDQ)
  - [Ansible - win_chocolatey and windows packages](https://youtu.be/4lJpbrgGOjM)
  - [Ansible - Install roles and features on windows servers](https://youtu.be/M-Dt45yuALI)
