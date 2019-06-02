@@ -17,7 +17,8 @@ This github pages is about tracking my projects, repositories, and some updates 
 ## Check out my [vagrant](https://app.vagrantup.com/r3ap3rpy) repository!
 
 ## There are some repositories here which you can browse!
- - [This](/GO) repository holds resources for my [udemy](https://udemy.com/) course on the GO programming language.
+ - [This](/Ruby) repository holds resources for my [udemy](https://www.udemy.com)
+ - [This](/GO) repository holds resources for my [udemy](https://udemy.com/an-introduction-to-go-programming) course on the GO programming language.
  - [This](/PCEP) repository holds resources for my [udemy](https://www.udemy.com/becoming-pcep-python-certified-entry-level-programmer) course on becoming PCEP.
  - [This](/sphinxer) repository holds some example projects about documentation in sphinx.
  - [This](/vagrantseries) repository is a collection of course material for my Vagrant course on udemy.
