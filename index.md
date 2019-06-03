@@ -77,6 +77,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### Ansible
+ - [Ansible - New port config on Cisco IOS](https://youtu.be/kU3jOp9luxI)
  - [Ansible - Decomission switchports with elegance](https://youtu.be/A8pnTF6_qyI)
  - [Ansible - IOS device config backup](https://youtu.be/lEbRuy7Qcfs)
  - [Ansible - Configure HSRP on cisco devices](https://youtu.be/l25ydGkXDEA)
