@@ -59,6 +59,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Puppet 
+ - [Puppet - Setting up test environment and collecting package data](https://youtu.be/huGaGN_lquY)
+
 ### Sphinx
  - [Sphinx - Document your python module, gotchas included](https://youtu.be/h4xTw_fkOa0)
  - [Sphinx - Installing themes and rendering Jupyter notebooks](https://youtu.be/hesiyLyDTtY)
