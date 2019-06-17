@@ -175,6 +175,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Invoke, automate any task](https://youtu.be/fqS2TBcxoeA)
  - [Python - HTML mail with attachments](https://youtu.be/fe5ahuOukdw)
  - [Python - Black](https://youtu.be/ia19n_yK4Qs)
  - [Python - Adding logging to your modules and packages](https://youtu.be/5mMIePwhuG4)
