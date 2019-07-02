@@ -175,6 +175,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Multi threaded socket server with client](https://youtu.be/FKlmAkEb40s)
  - [Python - NOX a module for versatile testing](https://youtu.be/x_0uxBiByCU)
  - [Python - Invoke, automate any task](https://youtu.be/fqS2TBcxoeA)
  - [Python - HTML mail with attachments](https://youtu.be/fe5ahuOukdw)
