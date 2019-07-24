@@ -175,6 +175,8 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Bandit, a module for app security](https://youtu.be/BUiycIOqSfs)
+ - [Python - Building Python from source on CentOS](https://youtu.be/4LgY8xhhwPw)
  - [Python - Safety, a module for security](https://youtu.be/5ZQ596MJJxY)
  - [Python - Multi threaded socket server with client](https://youtu.be/FKlmAkEb40s)
  - [Python - NOX a module for versatile testing](https://youtu.be/x_0uxBiByCU)
