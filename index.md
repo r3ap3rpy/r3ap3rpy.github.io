@@ -79,6 +79,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### GNS
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
+### CentOS
+ - [CentOS - RAMFS vs TMPFS](https://youtu.be/-1fvUpFAbNM)
+
 ### Ansible
  - [Ansible - New port config on Cisco IOS](https://youtu.be/kU3jOp9luxI)
  - [Ansible - Decomission switchports with elegance](https://youtu.be/A8pnTF6_qyI)
