@@ -258,6 +258,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
 
 ### Python - Flask
+ - [Python - Flask RestPlus getting started](https://youtu.be/K3ioqV7qnEQ)
  - [Flask - Webapp running in Azure and secured by certbot and a valid SSL certificate](https://youtu.be/OapoT1MLgwI)
  - [Python - Flask based webapp to render markdown files](https://youtu.be/-g3ubRHpOEs)
  - [Python - Securing webapps in python with stunnel package](https://youtu.be/ozsn-1QGotY)
