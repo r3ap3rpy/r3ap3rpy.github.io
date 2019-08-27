@@ -258,6 +258,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
 
 ### Python - Flask
+ - [Python - Flask, Data formatting and Endpoints](https://youtu.be/6R8730A2KDk)
  - [Python - Flask, custom vault for data store](https://youtu.be/0vS4NvfW25M)
  - [Python - Flask RestPlus getting started](https://youtu.be/K3ioqV7qnEQ)
  - [Flask - Webapp running in Azure and secured by certbot and a valid SSL certificate](https://youtu.be/OapoT1MLgwI)
