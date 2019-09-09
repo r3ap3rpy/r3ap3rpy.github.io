@@ -82,6 +82,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### CentOS
  - [CentOS - RAMFS vs TMPFS](https://youtu.be/-1fvUpFAbNM)
  - [CentOS - root password reset](https://youtu.be/HrohbDqr2Bc)
+ - [CentOS - Configuring network interfaces](https://youtu.be/9DKoaB-TbCY)
 
 ### Ansible
  - [Ansible - New port config on Cisco IOS](https://youtu.be/kU3jOp9luxI)
