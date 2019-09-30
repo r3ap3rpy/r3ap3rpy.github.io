@@ -85,6 +85,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Configuring network interfaces](https://youtu.be/9DKoaB-TbCY)
  - [CentOS - SELinux and hostname change](https://youtu.be/eLW2PE72D5w)
  - [CentOS - Managing users and groups](https://youtu.be/XeoGa43tN9I)
+ - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
  - [Ansible - New port config on Cisco IOS](https://youtu.be/kU3jOp9luxI)
