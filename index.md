@@ -89,6 +89,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
+ - [Python - Pull hosts from ansible group](https://youtu.be/cF6yX-2vw_0)
  - [Ansible - New port config on Cisco IOS](https://youtu.be/kU3jOp9luxI)
  - [Ansible - Decomission switchports with elegance](https://youtu.be/A8pnTF6_qyI)
  - [Ansible - IOS device config backup](https://youtu.be/lEbRuy7Qcfs)
