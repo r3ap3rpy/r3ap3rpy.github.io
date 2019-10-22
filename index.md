@@ -185,6 +185,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - pyodbc setup for MSSQL](https://youtu.be/pSfBRsTQ-n8)
  - [Python - Bandit, a module for app security](https://youtu.be/BUiycIOqSfs)
  - [Python - Building Python from source on CentOS](https://youtu.be/4LgY8xhhwPw)
  - [Python - Safety, a module for security](https://youtu.be/5ZQ596MJJxY)
