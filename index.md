@@ -59,6 +59,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Octopus Deploy
+ -[Octopus Deploy - Getting Started](https://youtu.be/nYMtXOQUOq8)
+
 ### Puppet 
  - [Puppet - Setting up test environment and collecting package data](https://youtu.be/huGaGN_lquY)
 
