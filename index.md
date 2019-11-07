@@ -64,6 +64,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[Octopus Deploy - Adding WIN worker](https://youtu.be/615Gv_70Ol0)
  -[Octopus Deploy - Adding LIN worker](https://youtu.be/UWLs4z1ozdM)
  -[Octopus Deploy - Install Python](https://youtu.be/CUhwYhGiVEc)
+ -[Octopus Deploy - Python module](https://youtu.be/Vh9Q8vCf2bc)
 
 ### Puppet 
  - [Puppet - Setting up test environment and collecting package data](https://youtu.be/huGaGN_lquY)
