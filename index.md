@@ -138,6 +138,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Jenkins - Getting started on Windows 10 with apache tomcat](https://youtu.be/wz7-G-Uydpo)
 
 ### Other
+ - [Hackthebox - Invite code](https://youtu.be/FAOPFbbCLok)
  - [Bastillion - SSH gateway with fine grade permissions](https://youtu.be/LMEK34Yqr1M)
  - [National Consultation](https://youtu.be/MHPrlQQc1Pc)
  - [After a rainy day the sunset.](https://youtu.be/Zs_e_VOqIf4)
