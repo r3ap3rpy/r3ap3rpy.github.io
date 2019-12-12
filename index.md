@@ -195,6 +195,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Breakpoint](https://youtu.be/xrvphYPoiKQ)
  - [Buildbot - CICD pipeline](https://youtu.be/6bCUjuc0dU8)
  - [Python - SQLite web](https://youtu.be/cM9zLWnEvvY)
  - [Python - pyodbc setup for MSSQL](https://youtu.be/pSfBRsTQ-n8)
