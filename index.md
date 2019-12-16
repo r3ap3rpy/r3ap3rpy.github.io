@@ -178,6 +178,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Websockets - Using cmd and powershell via a sanic webapp in python](https://youtu.be/X4oVGnJLVUg)
 
 ### Python - Bottle Web Framework
+ - [Python - Setting up devpi server](https://youtu.be/Dxu3W7RkozU)
  - [Python - winrm ntlm auth](https://youtu.be/Cx9XsS9fZpA)
  - [Python - Winrm module basic setup and commands](https://youtu.be/EJ52GIJHTw8)
  - [Python - Bottle - Part 1](https://youtu.be/uwD4JtO7FO4)
