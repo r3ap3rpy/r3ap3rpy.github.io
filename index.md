@@ -62,6 +62,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 ### Falcon
  -[Falcon - Hello World](https://youtu.be/WTgd6GbzRqs)
  -[Falcon - CRUD](https://youtu.be/mdoeLlK-Uxo)
+ -[Falcon - Linux Setup](https://youtu.be/5huWPPdiTAo)
 
 ### Octopus Deploy
  -[Octopus Deploy - Getting Started](https://youtu.be/nYMtXOQUOq8)
