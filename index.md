@@ -101,6 +101,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
+ - [Ansible - Provision local user on windows](https://youtu.be/yhwcVhXsUbc)
  - [Ansible - Wireshark deployment on windows](https://youtu.be/smDWrugTp2w)
  - [Ansible - Erlang install on windows](https://youtu.be/o_607oOirds)
  - [Python - Pull hosts from ansible group](https://youtu.be/cF6yX-2vw_0)
