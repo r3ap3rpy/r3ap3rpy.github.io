@@ -59,6 +59,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Containers
+ -[Docker - Getting started on CentOS](https://youtu.be/SADYfX4YP-g)
+
 ### Falcon
  -[Falcon - Hello World](https://youtu.be/WTgd6GbzRqs)
  -[Falcon - CRUD](https://youtu.be/mdoeLlK-Uxo)
