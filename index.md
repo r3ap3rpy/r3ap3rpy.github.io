@@ -61,6 +61,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### Containers
  -[Docker - Getting started on CentOS](https://youtu.be/SADYfX4YP-g)
+ -[Docker - Container details & cAdvisor](https://youtu.be/ZObyIcYChh4)
 
 ### Falcon
  -[Falcon - Hello World](https://youtu.be/WTgd6GbzRqs)
