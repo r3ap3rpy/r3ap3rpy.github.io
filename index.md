@@ -59,6 +59,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Rundeck
+ -[Rundeck - Setup on CentOS7](https://youtu.be/Yw0JLDHN61s)
+
 ### Containers
  -[Docker - Getting started on CentOS](https://youtu.be/SADYfX4YP-g)
  -[Docker - Container details & cAdvisor](https://youtu.be/ZObyIcYChh4)
