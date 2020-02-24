@@ -61,6 +61,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ### Rundeck
  -[Rundeck - Setup on CentOS7](https://youtu.be/Yw0JLDHN61s)
+ -[Rundeck - Anisble plugin, linux nodes](https://youtu.be/dtCwQtObnuA)
 
 ### Containers
  -[Docker - Getting started on CentOS](https://youtu.be/SADYfX4YP-g)
