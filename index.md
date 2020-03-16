@@ -60,6 +60,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Gremlin
+ -[Gremlin - Introduction](https://youtu.be/oW43FOYkfpc)
+
+
 ### Rundeck
  -[Rundeck - Setup on CentOS7](https://youtu.be/Yw0JLDHN61s)
  -[Rundeck - Anisble plugin, linux nodes](https://youtu.be/dtCwQtObnuA)
