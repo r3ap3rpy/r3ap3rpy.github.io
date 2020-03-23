@@ -60,6 +60,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### Jfrog
+ -[Jfrog - Setup on CentOS](https://youtu.be/rXW7ZK1-0fc)
+
 ### Gremlin
  -[Gremlin - Introduction](https://youtu.be/oW43FOYkfpc)
 
