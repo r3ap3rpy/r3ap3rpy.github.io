@@ -60,6 +60,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+### DJI
+ -[DJI Mavic Mini - Budapest Kopaszi Gát](https://youtu.be/p8dC-fQpVDU)
+ -[DJI - Biatorbágy - Nyakas kő & Viadukt](https://youtu.be/wPagvblMJgY)
+
 ### Jfrog
  -[Jfrog - Setup on CentOS](https://youtu.be/rXW7ZK1-0fc)
 
