@@ -64,6 +64,9 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[DJI Mavic Mini - Budapest Kopaszi Gát](https://youtu.be/p8dC-fQpVDU)
  -[DJI - Biatorbágy - Nyakas kő & Viadukt](https://youtu.be/wPagvblMJgY)
 
+## PyDio
+ -[PyDio - On Premise filesharing](https://youtu.be/IdKsbJbskmw)
+
 ### Jfrog
  -[Jfrog - Setup on CentOS](https://youtu.be/rXW7ZK1-0fc)
 
