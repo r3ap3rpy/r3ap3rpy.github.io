@@ -229,6 +229,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - ini style ConfigParser](https://youtu.be/9mjusxYl9M8)
  - [Python - OS independent app](https://youtu.be/XqYgiq_DpxE)
  - [Python - Breakpoint](https://youtu.be/xrvphYPoiKQ)
  - [Buildbot - CICD pipeline](https://youtu.be/6bCUjuc0dU8)
