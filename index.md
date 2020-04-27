@@ -61,7 +61,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
-### DJI
+## Bolt
+ -[Bolt - Getting Started](https://youtu.be/uJMwjAnSAEM)
+
+## DJI
  -[DJI Mavic Mini - Budapest Kopaszi Gát](https://youtu.be/p8dC-fQpVDU)
  -[DJI - Biatorbágy - Nyakas kő & Viadukt](https://youtu.be/wPagvblMJgY)
 
