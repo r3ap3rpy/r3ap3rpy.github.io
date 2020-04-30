@@ -18,7 +18,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ## There are some repositories here which you can browse!
  - [This](/nornir) repo holds my resources on the course of [udemy](https://www.udemy.com/nornir-network-automation) for Nornir, the automation framework!
- - [This](/bolt) repo holds my resources on the course of [udemy](https://www.udemy.com/bolt-a-must-have-devops-tool-form-puppet) for Bolt of Puppet.
+ - [This](/Bolt) repo holds my resources on the course of [udemy](https://www.udemy.com/bolt-a-must-have-devops-tool-form-puppet) for Bolt of Puppet.
  - [This](/Ruby) repository holds resources for my [udemy](https://www.udemy.com/an-introduction-to-the-ruby-programming-language) course on the Ruby programming language.
  - [This](/GO) repository holds resources for my [udemy](https://udemy.com/an-introduction-to-go-programming) course on the GO programming language.
  - [This](/PCEP) repository holds resources for my [udemy](https://www.udemy.com/becoming-pcep-python-certified-entry-level-programmer) course on becoming PCEP.
