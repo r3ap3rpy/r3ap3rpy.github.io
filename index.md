@@ -17,6 +17,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 ## Check out my [vagrant](https://app.vagrantup.com/r3ap3rpy) repository!
 
 ## There are some repositories here which you can browse!
+ - [This]() repo holds my resources on the cours of [udemy](https://www.udemy.com/open-source-puppet-with-foreman-definitive-guide) about the Puppet Open Source course.
  - [This](/nornir) repo holds my resources on the course of [udemy](https://www.udemy.com/nornir-network-automation) for Nornir, the automation framework!
  - [This](/Bolt) repo holds my resources on the course of [udemy](https://www.udemy.com/bolt-a-must-have-devops-tool-form-puppet) for Bolt of Puppet.
  - [This](/Ruby) repository holds resources for my [udemy](https://www.udemy.com/an-introduction-to-the-ruby-programming-language) course on the Ruby programming language.
@@ -130,6 +131,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
+ - [Ansible - Loop, cron and variables](https://youtu.be/2So2WJSaa1k)
  - [Ansible - ProGet based deployment](https://youtu.be/xNVHyWD5AvU)
  - [Ansible - ProGet setup](https://youtu.be/ekgiFB8yCBU)
  - [Ansible - Provision local user on windows](https://youtu.be/yhwcVhXsUbc)
