@@ -131,6 +131,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
+ - [Ansible - Deploy Php 7.3](https://youtu.be/I65VX9d8ezI)
  - [Ansible - Deploy Npm](https://youtu.be/pfwwQQn1yzE)
  - [Ansible - Loop, cron and variables](https://youtu.be/2So2WJSaa1k)
  - [Ansible - ProGet based deployment](https://youtu.be/xNVHyWD5AvU)
