@@ -62,6 +62,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## Fabric
+ -[Python - Fabric intro](https://youtu.be/33MceBzq7XQ)
+
 ## Bolt
  -[Bolt - Getting Started](https://youtu.be/uJMwjAnSAEM)
 
