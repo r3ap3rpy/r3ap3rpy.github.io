@@ -65,6 +65,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 ## Fabric
  -[Python - Fabric intro](https://youtu.be/33MceBzq7XQ)
  -[Python - Fabric - Running Commands](https://youtu.be/X_iXFdcl234)
+ -[Python - Fabric - Functions](https://youtu.be/JUc5Ce-n_os)
 
 ## Bolt
  -[Bolt - Getting Started](https://youtu.be/uJMwjAnSAEM)
