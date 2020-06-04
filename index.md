@@ -68,6 +68,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[Python - Fabric - Functions](https://youtu.be/JUc5Ce-n_os)
  -[Python - Fabric Public key authentication](https://youtu.be/OFvPZ65lNQ8)
  -[Python - Fabric - Context Managers](https://youtu.be/MF1LgZymZ10)
+ -[Python - Fabric - Multiple Hosts](https://youtu.be/jmk5vkIBMbc)
 
 ## Bolt
  -[Bolt - Getting Started](https://youtu.be/uJMwjAnSAEM)
