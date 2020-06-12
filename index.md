@@ -249,6 +249,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Socks5 - Get Pip.py   ](https://youtu.be/t1whX0lB5Ts)
  - [Python - ini style ConfigParser](https://youtu.be/9mjusxYl9M8)
  - [Python - OS independent app](https://youtu.be/XqYgiq_DpxE)
  - [Python - Breakpoint](https://youtu.be/xrvphYPoiKQ)
