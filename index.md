@@ -63,6 +63,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ## Fabric
+ -[Python - Fabric - Provision User](https://youtu.be/kA_Q2j8giLw)
  -[Python - Fabric   Responder](https://youtu.be/aiKcIEjzQ4U)
  -[Python - Fabric intro](https://youtu.be/33MceBzq7XQ)
  -[Python - Fabric - Running Commands](https://youtu.be/X_iXFdcl234)
