@@ -62,6 +62,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## CFEngine
+ -[CFEngine - Intro and Setup](https://youtu.be/hAweC1sqXi8)
+
+
 ## Fabric
  -[Python - Fabric - Install Package](https://youtu.be/BUfHbP33_X0)
  -[Python - Fabric - Provision User](https://youtu.be/kA_Q2j8giLw)
