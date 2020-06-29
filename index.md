@@ -62,6 +62,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## Velociraptor
+ -[Velociraptro - GUI Setup - Windows Client](https://youtu.be/rkMhW_R47_c)
+
 ## CFEngine
  -[CFEngine - Intro and Setup](https://youtu.be/hAweC1sqXi8)
 
@@ -256,6 +259,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Argument Parsing](https://youtu.be/pKWKKq7TRjU)
  - [Python - Socks5 - Get Pip.py   ](https://youtu.be/t1whX0lB5Ts)
  - [Python - ini style ConfigParser](https://youtu.be/9mjusxYl9M8)
  - [Python - OS independent app](https://youtu.be/XqYgiq_DpxE)
