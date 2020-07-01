@@ -64,6 +64,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ## Velociraptor
  -[Velociraptro - GUI Setup - Windows Client](https://youtu.be/rkMhW_R47_c)
+ -[Velociraptor - Adding Linux Client](https://youtu.be/lO9ENw8s6ow)
 
 ## CFEngine
  -[CFEngine - Intro and Setup](https://youtu.be/hAweC1sqXi8)
