@@ -63,8 +63,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 > List of my youtube videos per playlist:
 
 ## Velociraptor
+ -[Velociraptor - Adding MacOS Client](https://youtu.be/Fv1fkof2vuE)
  -[Velociraptro - GUI Setup - Windows Client](https://youtu.be/rkMhW_R47_c)
  -[Velociraptor - Adding Linux Client](https://youtu.be/lO9ENw8s6ow)
+ -[Velociraptor - Hunting](https://youtu.be/w2-8L4A48W0)
 
 ## CFEngine
  -[CFEngine - Intro and Setup](https://youtu.be/hAweC1sqXi8)
