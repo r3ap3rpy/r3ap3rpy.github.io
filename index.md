@@ -143,6 +143,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [GNS3 - Setting up the Local Server and GNS VM in Virtualbox](https://youtu.be/9nl9MtPX8KA)
 
 ### CentOS
+ - [CentOS - Cockpit feature](https://youtu.be/NkKeXaJ63zQ)
  - [CentOS - Yum and basic partitioning](https://youtu.be/_MxYkyHKKLs)
  - [CentOS - RAMFS vs TMPFS](https://youtu.be/-1fvUpFAbNM)
  - [CentOS - root password reset](https://youtu.be/HrohbDqr2Bc)
