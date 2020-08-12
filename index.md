@@ -62,6 +62,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## EveNG
+ -[Eve - NG - Initial Setup](https://youtu.be/d9Ea-hy9Q7w)
+ -[Eve - NG - Adding IOS images](https://youtu.be/J2_lIeXG7ho)
+
 ## Velociraptor
  -[Velociraptor - Adding MacOS Client](https://youtu.be/Fv1fkof2vuE)
  -[Velociraptro - GUI Setup - Windows Client](https://youtu.be/rkMhW_R47_c)
