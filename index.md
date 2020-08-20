@@ -158,6 +158,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
+ -[Ansible - Semaphore UI](https://youtu.be/0iZur-4nkVE)
  - [Ansible - Install package in a virtual environment](https://youtu.be/SdgIfzmQWlU)
  - [Ansible - Check Service Status](https://youtu.be/hzCZlQdIwvI)
  - [Ansible - Deploy Php 7.3](https://youtu.be/I65VX9d8ezI)
