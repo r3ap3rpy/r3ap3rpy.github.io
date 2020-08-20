@@ -68,9 +68,10 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 ## Velociraptor
  -[Velociraptor - Adding MacOS Client](https://youtu.be/Fv1fkof2vuE)
- -[Velociraptro - GUI Setup - Windows Client](https://youtu.be/rkMhW_R47_c)
+ -[Velociraptor - GUI Setup - Windows Client](https://youtu.be/rkMhW_R47_c)
  -[Velociraptor - Adding Linux Client](https://youtu.be/lO9ENw8s6ow)
  -[Velociraptor - Hunting](https://youtu.be/w2-8L4A48W0)
+ -[Velociraptor - Running on debian as a service](https://www.youtube.com/watch?v=E1XN3y_U41Q)
 
 ## CFEngine
  -[CFEngine - Intro and Setup](https://youtu.be/hAweC1sqXi8)
@@ -267,6 +268,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Strongbox - Tutorial - Pypi](https://www.youtube.com/watch?v=nbyOenbVL40)
  - [Python - Argument Parsing](https://youtu.be/pKWKKq7TRjU)
  - [Python - Socks5 - Get Pip.py   ](https://youtu.be/t1whX0lB5Ts)
  - [Python - ini style ConfigParser](https://youtu.be/9mjusxYl9M8)
