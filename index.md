@@ -269,6 +269,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Rich   Loops](https://youtu.be/9d_-bKT4pcE)
  - [Python - Rich Intro](https://youtu.be/mMZUHhBdaug)
  - [Strongbox - Tutorial - Pypi](https://www.youtube.com/watch?v=nbyOenbVL40)
  - [Python - Argument Parsing](https://youtu.be/pKWKKq7TRjU)
