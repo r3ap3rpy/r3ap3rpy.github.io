@@ -269,6 +269,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Rich - Custom](https://youtu.be/kQoImVjQm3g)
  - [Python - Rich Record](https://youtu.be/sAtgg4Tyt3Q)
  - [Python - Rich Loops](https://youtu.be/9d_-bKT4pcE)
  - [Python - Rich Intro](https://youtu.be/mMZUHhBdaug)
