@@ -62,6 +62,15 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## Ungit
+ -[Git - Ungit	](https://youtu.be/QGLvFD67zsU)
+
+## Datagerry
+ -[Datagerry](https://youtu.be/51e4mluVvrs)
+
+## Tornado
+ -[Python - Tornado - Introduction](https://youtu.be/0nqjKqCAJI8)
+
 ## EveNG
  -[Eve - NG - Adding Debian Client](https://youtu.be/mRcHLZoqOyM)
  -[Eve - NG - Initial Setup](https://youtu.be/d9Ea-hy9Q7w)
@@ -210,6 +219,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Jenkins - Using jenkins cli and the setup](https://youtu.be/TEb1Y8wEi30)
  - [Jenkins - Migrate jenkins home](https://youtu.be/qpz8LKUO3zY) 
  - [Jenkins - Getting started on Windows 10 with apache tomcat](https://youtu.be/wz7-G-Uydpo)
+ - [Jenkins - lnstall on Centos 8](https://youtu.be/uk4KJDnqgcw)
 
 ### Other
  - [Hackthebox - Invite code](https://youtu.be/FAOPFbbCLok)
@@ -270,6 +280,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - f strings, dict and tuple](https://youtu.be/AsOK368xb3k)
  - [Python - Rich - Custom](https://youtu.be/kQoImVjQm3g)
  - [Python - Rich Record](https://youtu.be/sAtgg4Tyt3Q)
  - [Python - Rich Loops](https://youtu.be/9d_-bKT4pcE)
