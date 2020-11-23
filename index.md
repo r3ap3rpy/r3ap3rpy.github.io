@@ -62,6 +62,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## CodeServer
+ -[Code - Server](https://youtu.be/rFuhrE5NxLQ)
+
 ## Ungit
  -[Git - Ungit	](https://youtu.be/QGLvFD67zsU)
 
@@ -98,6 +101,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[Python - Fabric Public key authentication](https://youtu.be/OFvPZ65lNQ8)
  -[Python - Fabric - Context Managers](https://youtu.be/MF1LgZymZ10)
  -[Python - Fabric - Multiple Hosts](https://youtu.be/jmk5vkIBMbc)
+ -[Python - Fabric - Mass Copy](https://youtu.be/wkRDqjLUkYo)
 
 ## Bolt
  -[Bolt - Getting Started](https://youtu.be/uJMwjAnSAEM)
@@ -169,7 +173,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
- -[Ansible - Semaphore UI](https://youtu.be/0iZur-4nkVE)
+ - [Ansible - Semaphore UI](https://youtu.be/0iZur-4nkVE)
  - [Ansible - Install package in a virtual environment](https://youtu.be/SdgIfzmQWlU)
  - [Ansible - Check Service Status](https://youtu.be/hzCZlQdIwvI)
  - [Ansible - Deploy Php 7.3](https://youtu.be/I65VX9d8ezI)
