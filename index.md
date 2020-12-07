@@ -285,6 +285,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Only One Instance](https://youtu.be/H98hWrVRYFo)
  - [Python - Paramiko - sudo prompt](https://youtu.be/fVOFWehhc38)
  - [Python - f strings, dict and tuple](https://youtu.be/AsOK368xb3k)
  - [Python - Rich - Custom](https://youtu.be/kQoImVjQm3g)
