@@ -62,6 +62,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## Rudder
+ -[Rudder - Root server setup](https://youtu.be/tWj2E6v04Go)
+
 ## CodeServer
  -[Code - Server](https://youtu.be/rFuhrE5NxLQ)
 
