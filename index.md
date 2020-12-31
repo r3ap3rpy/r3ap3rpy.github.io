@@ -66,6 +66,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[Rudder - Root server setup](https://youtu.be/tWj2E6v04Go)
  -[Rudder - Adding linux agent](https://youtu.be/7TKqUPGykg0)
  -[Rudder - Relay Server](https://youtu.be/2470JERuwTY)
+ -[Rudder - User management](https://youtu.be/KSH_JFpufnc)
 
 ## CodeServer
  -[Code - Server](https://youtu.be/rFuhrE5NxLQ)
