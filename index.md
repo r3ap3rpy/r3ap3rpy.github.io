@@ -67,6 +67,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[Rudder - Adding linux agent](https://youtu.be/7TKqUPGykg0)
  -[Rudder - Relay Server](https://youtu.be/2470JERuwTY)
  -[Rudder - User management](https://youtu.be/KSH_JFpufnc)
+ -[Rudder - The API](https://youtu.be/kiOXXUwZ0JM)
 
 ## CodeServer
  -[Code - Server](https://youtu.be/rFuhrE5NxLQ)
