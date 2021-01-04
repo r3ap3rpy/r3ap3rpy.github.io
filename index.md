@@ -70,6 +70,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[Rudder - The API](https://youtu.be/kiOXXUwZ0JM)
  -[Rudder - Custom Inventory](https://youtu.be/3tS_xElJqPs)
  -[Rudder - Performance tuning](https://youtu.be/__3tZYw9j3E)
+ -[Rudder - Techniques and Directives](https://youtu.be/cleT8jJd3r8)
 ## CodeServer
  -[Code - Server](https://youtu.be/rFuhrE5NxLQ)
 
