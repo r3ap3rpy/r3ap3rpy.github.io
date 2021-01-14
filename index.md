@@ -71,6 +71,9 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[Rudder - Custom Inventory](https://youtu.be/3tS_xElJqPs)
  -[Rudder - Performance tuning](https://youtu.be/__3tZYw9j3E)
  -[Rudder - Techniques and Directives](https://youtu.be/cleT8jJd3r8)
+ -[Rudder - Deploy Python 3 7 0](https://youtu.be/wn3EMuF-2ro)
+ -[Rudder - Archive and Events](https://youtu.be/M7bGGNbmse8)
+ 
 ## CodeServer
  -[Code - Server](https://youtu.be/rFuhrE5NxLQ)
 
