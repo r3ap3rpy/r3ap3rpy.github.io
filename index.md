@@ -62,6 +62,9 @@ This github pages is about tracking my projects, repositories, and some updates 
 
 > List of my youtube videos per playlist:
 
+## Turbogears
+ -[TurboGears2 - Prepare and Hello World](https://youtu.be/RYDxtY5yR0k)
+
 ## Rudder
  -[Rudder - Root server setup](https://youtu.be/tWj2E6v04Go)
  -[Rudder - Adding linux agent](https://youtu.be/7TKqUPGykg0)
