@@ -66,6 +66,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[TurboGears2 - Prepare and Hello World](https://youtu.be/RYDxtY5yR0k)
  -[TurboGears2 - Multiple pages in a single webapp](https://youtu.be/VIYpz4CMCT0)
  -[TurboGears2 - Kajiki templating](https://youtu.be/BzwjyFRPv2Q)
+ -[TurboGears2 - Webhelpers and additional functionality](https://youtu.be/VyPPGGtGCfo)
 
 ## Rudder
  -[Rudder - Root server setup](https://youtu.be/tWj2E6v04Go)
