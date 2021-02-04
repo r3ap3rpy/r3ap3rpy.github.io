@@ -68,6 +68,8 @@ This github pages is about tracking my projects, repositories, and some updates 
  -[TurboGears2 - Kajiki templating](https://youtu.be/BzwjyFRPv2Q)
  -[TurboGears2 - Webhelpers and additional functionality](https://youtu.be/VyPPGGtGCfo)
  -[TurboGears2 - Configure folder for static files](https://youtu.be/Vjtx3o4BFhs)
+ -[TurboGears2 - Using ORM DB in your webapplication](https://youtu.be/fYIN5As2aGQ)
+ -[TurboGears2 - Getting started with devtools](https://youtu.be/PtdyApyD4Fg)
 
 ## Rudder
  -[Rudder - Root server setup](https://youtu.be/tWj2E6v04Go)
