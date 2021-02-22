@@ -403,6 +403,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
 
 ### Python - Flask
+ - [Python - Flask - SQLAlchemy and PostGres](https://youtu.be/TGxIjKEd_Gg)
  - [Python - Flask - Current App](https://youtu.be/NqRULrX_QYk)
  - [Python - Flask - Custom filter](https://youtu.be/Q91qCFjS5aw)
  - [Python - Flask - In memory file](https://youtu.be/h8FS7EB8Fw8)
