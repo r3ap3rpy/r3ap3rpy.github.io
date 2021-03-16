@@ -195,6 +195,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [CentOS - Network Interaface teaming](https://youtu.be/24YPow76HbA)
 
 ### Ansible
+ - [Ansible - Manage Static Hosts Part 2](https://youtu.be/4gw_OEsCjpE)
  - [Ansible - Manage Static Hosts](https://youtu.be/qLL4TYUePQI)
  - [Ansible - Semaphore UI](https://youtu.be/0iZur-4nkVE)
  - [Ansible - Install package in a virtual environment](https://youtu.be/SdgIfzmQWlU)
