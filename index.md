@@ -309,6 +309,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Callable Objects](https://youtu.be/FMOTFGNtUMs)
  - [Python - Only One Instance](https://youtu.be/H98hWrVRYFo)
  - [Python - Paramiko - sudo prompt](https://youtu.be/fVOFWehhc38)
  - [Python - f strings, dict and tuple](https://youtu.be/AsOK368xb3k)
@@ -405,6 +406,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - JIRA - Getting started](https://youtu.be/otOxdNnNqN4)
 
 ### Python - Flask
+ - [Python - Flask - Performance Profiling](https://youtu.be/9ugv2tA7FCQ)
  - [Python - Flask - SQLAlchemy and PostGres](https://youtu.be/TGxIjKEd_Gg)
  - [Python - Flask - Current App](https://youtu.be/NqRULrX_QYk)
  - [Python - Flask - Custom filter](https://youtu.be/Q91qCFjS5aw)
