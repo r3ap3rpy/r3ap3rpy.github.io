@@ -309,6 +309,7 @@ This github pages is about tracking my projects, repositories, and some updates 
  - [Python - Bottle - Part 13](https://youtu.be/VqWw4K_djWs)
 
 ### Python
+ - [Python - Paramiko Public Key Auth](https://youtu.be/zj_7gI__mj0)
  - [Python - Callable Objects](https://youtu.be/FMOTFGNtUMs)
  - [Python - Only One Instance](https://youtu.be/H98hWrVRYFo)
  - [Python - Paramiko - sudo prompt](https://youtu.be/fVOFWehhc38)
