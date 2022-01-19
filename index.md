@@ -17,6 +17,7 @@ This github pages is about tracking my projects, repositories, and some updates 
 ## Check out my [vagrant](https://app.vagrantup.com/r3ap3rpy) repository!
 
 ## There are some repositories here which you can browse!
+ - [This](https://www.udemy.com/python-diagrams-drawing-architecture-with-python-code) is a  is a course on **diagrams** module of python.
  - [This](/puppeteering) repo holds my resources on the cours of [udemy](https://www.udemy.com/open-source-puppet-with-foreman-definitive-guide) about the Puppet Open Source course.
  - [This](/nornir) repo holds my resources on the course of [udemy](https://www.udemy.com/nornir-network-automation) for Nornir, the automation framework!
  - [This](/Bolt) repo holds my resources on the course of [udemy](https://www.udemy.com/bolt-a-must-have-devops-tool-form-puppet) for Bolt of Puppet.
